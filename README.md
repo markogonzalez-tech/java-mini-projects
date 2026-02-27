@@ -13,3 +13,5 @@ A simple console game where the user tries to guess a random number between 1 an
 - Random
 - While loop
 - Conditional statements
+
+More mini projects coming soon.
