@@ -14,4 +14,10 @@ A simple console game where the user tries to guess a random number between 1 an
 - While loop
 - Conditional statements
 
+## Projects
+
+- Calculator → Basic operations
+- Guess Number Game → Simple game
+- Number Guess with Attempts → Improved version with attempt counter
+
 More mini projects coming soon.
