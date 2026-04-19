@@ -100,3 +100,36 @@ The objective of this project is to improve understanding of loops, conditional 
 
 2. Run the program:
    java LoginSystemAttempts
+
+   # Login System with File Storage (Java)
+
+## Description
+This project is a simple authentication system that validates user credentials stored in an external file. It simulates a more realistic login system by reading data from a file instead of using hardcoded values.
+
+## Technologies Used
+- Java
+- File handling (File, Scanner)
+- Console input
+
+## Functionality
+- Reads user credentials from a text file
+- Prompts the user to enter username and password
+- Compares input with stored data
+- Grants or denies access based on validation
+
+## Project Structure
+- `src/` → Source code
+- `data/` → User data file
+
+## Project Objective
+The goal of this project is to introduce file handling in Java and simulate a more realistic authentication system.
+
+## How to Run
+
+1. Make sure the `data/users.txt` file exists
+
+2. Compile the program:
+   javac LoginSystemFile.java
+
+3. Run the program:
+   java LoginSystemFile
